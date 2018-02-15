@@ -1,4 +1,4 @@
-package br.samirtf.rxjava.examples.rxjavaexamples;
+package br.samirtf.rxjava.examples;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
