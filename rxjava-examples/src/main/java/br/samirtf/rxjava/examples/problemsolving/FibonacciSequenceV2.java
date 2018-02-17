@@ -4,7 +4,6 @@ import br.samirtf.rxjava.examples.Executable;
 import io.reactivex.Observable;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
-import io.reactivex.functions.Predicate;
 
 public class FibonacciSequenceV2 implements Executable {
   @Override
